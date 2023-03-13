@@ -856,8 +856,7 @@ padding-bottom: 120px;
 }
 
 .items {
-    width: 360px;
-    margin-right: 24px;
+    width: 396px;
 }
 
 .items:not(:last-child) {
